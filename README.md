@@ -1,7 +1,7 @@
 # Node Vue
 Docker Image for Node.js and Vue.js
 
-## Usage
+### Usage
 Build and run the Docker image:
 ```
 $ docker build -t my-nodejs-app .
