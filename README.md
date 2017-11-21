@@ -2,7 +2,7 @@
 Docker Image for Node.js and Vue.js
 
 ### Usage
-Create Vue from vue-cli or import your Vue project.
+Create Vue project from vue-cli or import your Vue project to folder name `app`
 ```
 $ vue init pwa app
 ```
